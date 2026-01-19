@@ -5,7 +5,7 @@ My solutions to HackerRank algorithm problems in Python.
 ## 📊 Completed Problems
 
 ### Warmup Challenges
-1. ✅ [Simple Array Sum](simple-array-sum.py)
+1. ✅ [Simple Array Sum](SimpleArraySum.py)
 2. ✅ [A Very Big Sum](a-very-big-sum.py)
 3. ✅ [Diagonal Difference](diagonal-difference.py)
 4. ✅ [Plus Minus](plus-minus.py)
